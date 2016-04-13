@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome to my homepage]]></description>
         <link>https://thegrid.ai/bsoung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 04:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 04:27:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bsoung/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,6 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25d91af6-b5dd-46a2-8b47-4160e769b278.jpg">]]></description>
+            <link>https://thegrid.ai/bsoung/f0be1f04-b110-4416-bfda-382dc3cc248b/index.html</link>
+            <guid isPermaLink="false">f0be1f04-b110-4416-bfda-382dc3cc248b</guid>
+            <pubDate>Wed, 13 Apr 2016 04:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>“If life is going to exist in a Universe of this size, then the one thing it cannot afford to have is a sense of proportion.”– Douglas Adams</p>]]></description>
             <link>https://thegrid.ai/bsoung/70b1f2a2-d952-434a-8246-5b759458ce5a/index.html</link>
             <guid isPermaLink="false">70b1f2a2-d952-434a-8246-5b759458ce5a</guid>
             <pubDate>Wed, 13 Apr 2016 04:25:33 GMT</pubDate>
